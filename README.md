@@ -1,5 +1,5 @@
 ### Hi there 👋
-	I’m Steven M.C., a electronic engineering student, looking for new projects
+	I’m Steven M.C., an electronic engineering student, looking for new projects
 
 - 👋 Hi, I’m @StevenAMC
 - 👀 I’m interested in coding

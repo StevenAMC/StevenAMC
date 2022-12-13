@@ -1,5 +1,6 @@
-### Hi there 👋
-	I’m Steven M.C., an electronic engineering student, looking for new projects
+### Hi there! 👋
+	
+I’m Steven M.C., an electronic engineering student, looking for new projects
 
 - 👋 Hi, I’m @StevenAMC
 - 👀 I’m interested in coding
@@ -11,7 +12,8 @@
 
 ## Skills
 ### Dev Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,matlab,php,py,qt,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,js,vue,html,css,matlab,autocad,mysql,sqlite,php,py,qt,c,git,github,linux,arduino)](https://skillicons.dev) [<img src="img/esp.png" width="100" style="display: block;
+    margin: auto;"/>](img/esp.png) 
 
 ### Soft Skills
  - Team player

@@ -1,5 +1,5 @@
 ### Hi there 👋
-	I’m Diego Paccotaype, a FullStack developer, looking for new adventures
+	I’m Steven M.C., a electronic engineering student, looking for new projects
 
 - 👋 Hi, I’m @StevenAMC
 - 👀 I’m interested in coding

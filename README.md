@@ -12,8 +12,8 @@ I’m Steven M.C., an electronic engineering student, looking for new projects
 
 ## Skills
 ### Dev Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,js,vue,html,css,matlab,autocad,mysql,sqlite,php,py,qt,c,git,github,linux,arduino)](https://skillicons.dev) [<img src="img/esp.png" width="100" style="display: block;
-    margin: auto;"/>](img/esp.png) 
+[<img src="https://github.com/StevenAMC/AnsiCstv/blob/8297eb906280fb4414e523a0f3cb7f84a6226629/img/esp.png" width="50"  style="display: block;
+ margin: auto;"/>](img/esp.png) [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,js,vue,html,css,matlab,autocad,mysql,sqlite,php,py,qt,c,git,github,linux,arduino,)](https://skillicons.dev)
 
 ### Soft Skills
  - Team player
